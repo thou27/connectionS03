@@ -1,0 +1,22 @@
+.stApp {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.transport-card {
+    background-color: #E8EAE3;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid #4A6741;
+}
+
+.map-container {
+    border-radius: 10px;
+    border: 2px solid #4A6741;
+    overflow: hidden;
+}
+
+.results-container {
+    background-color: #F5F5F1;
+    padding: 2rem;
+    border-radius: 10px;
+}
